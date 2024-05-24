@@ -32,4 +32,8 @@ public class StudentService {
     public Student getStudentById(Long studentId) {
         return studentRepository.findById(studentId).orElse(null);
     }
+
+    public List<Student> getStudentsByCourse(String courseName) {
+        return studentRepository.findByCoursesName(courseName);
+    }
 }
