@@ -58,10 +58,10 @@
    git clone https://github.com/your-username/university-management-system.git
    cd university-management-system
 
-Μελλοντικές Προεκτάσεις
+## Μελλοντικές Προεκτάσεις
 -Ανάπτυξη frontend με React ή Angular
 -Προσθήκη αυθεντικοποίησης και εξουσιοδότησης με Spring Security
 -Δημιουργία αναφορών και στατιστικών
 
-Συνεισφορά
+## Συνεισφορά
 Οι συνεισφορές είναι ευπρόσδεκτες! Ανοίξτε ένα θέμα ή ένα pull request για να συμβάλετε.
